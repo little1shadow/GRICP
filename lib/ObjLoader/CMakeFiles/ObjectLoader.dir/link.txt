@@ -1,0 +1,2 @@
+E:\mingw64\bin\ar.exe qc libObjectLoader.a CMakeFiles/ObjectLoader.dir/ObjLoader.cpp.obj
+E:\mingw64\bin\ranlib.exe libObjectLoader.a
