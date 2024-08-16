@@ -1,6 +1,6 @@
-# GRICP: Granular-Ball Iterative Closest Point with Multiernel Correntropy for Point Cloud Fine Registration #
+# GRICP: Granular-Ball Iterative Closest Point with Multikernel Correntropy for Point Cloud Fine Registration #
 
-This repository contains an implementation of the [GRICP: Granular-Ball Iterative Closest Point with Multiernel Correntropy for Point Cloud Fine Registration](). 
+This repository contains an implementation of the [GRICP: Granular-Ball Iterative Closest Point with MultiKernel Correntropy for Point Cloud Fine Registration](). 
 
 ## Dependencies ##
 
